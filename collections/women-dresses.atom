@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/women-dresses.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2021-02-19T11:00:12-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6154462625954</id>
+    <published>2021-02-19T11:00:12-12:00</published>
+    <updated>2021-02-19T11:00:12-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-ladies-hi-lo-printed-dress-with-coverup-12pcs-pack-15-00-each"/>
+    <title>Women&apos;s Hi-Lo Printed Summer Dress With Coverup - 6pcs/pack ($17.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-045._aaada674-38f2-4bd3-87b3-8c2e69e2479b.jpg?v=1620943400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            107.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-045</span></p>
+<p><strong>COLOR(S):</strong><span> Lt Blue, Peach</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>6pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table style="width: 390px;" height="110">
+<tbody>
+<tr>
+<td style="width: 223px;" rowspan="2">Colors</td>
+<td style="width: 157px;" colspan="1">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Lt Blue</td>
+<td style="width: 157px;">3</td>
+</tr>
+<tr>
+<td style="width: 223px;">Peach</td>
+<td style="width: 157px;">3</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$17.90/pc, $107.40/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ladies Dress</s:tag>
+    <s:tag>Printed Dress</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6154462625954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6154437689506</id>
+    <published>2021-02-19T10:54:50-12:00</published>
+    <updated>2021-02-19T10:54:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-free-size-6"/>
+    <title>Women&apos;s Hi-Lo Printed Summer Dress With Coverup - 12pcs/pack ($17.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-044._2259e752-e984-452a-ae6e-e7b799b934a2.jpg?v=1620943836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            214.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-044</span></p>
+<p><strong>COLOR(S):</strong><span> Lt Green, Lt Blue, Lt Pink</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="110" style="width: 390px;">
+<tbody>
+<tr>
+<td rowspan="2" style="width: 223px;">Colors</td>
+<td colspan="1" style="width: 157px;">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Lt Green</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Lt Blue</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Lt Pink</td>
+<td style="width: 157px;">4</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$17.90/pc, $214.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ladies Dress</s:tag>
+    <s:tag>Printed Dress</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6154437689506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6151816446114</id>
+    <published>2021-02-18T12:09:33-12:00</published>
+    <updated>2021-02-18T12:09:33-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-ladies-ribbed-flare-tank-top-12pcs-pack-7-90-each"/>
+    <title>Women&apos;s Ribbed Flare Tank Top/Dress - 12pcs/pack ($10.90 each)</title>
+    <s:type>Womens Top</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-063.jpg?v=1620933233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Top<br>
+        <strong>Price: </strong>
+            130.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-063</span></p>
+<p><strong>COLOR(S):</strong><span> Dusty Pink</span>, Grey, Dark Teal, Navy</p>
+<p><strong>SIZES:</strong><span> </span>M, L, XL</p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="123" width="476">
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Dusty Pink</td>
+<td>1</td>
+<td>1<br>
+</td>
+<td>1<br>
+</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>1<br>
+</td>
+<td>1<br>
+</td>
+</tr>
+<tr>
+<td>Dark Teal</td>
+<td>1</td>
+<td>1<br>
+</td>
+<td>1<br>
+</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1<br>
+</td>
+<td>1<br>
+</td>
+<td>1<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$10.90/pc, $130.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Tops</s:tag>
+    <s:tag>Sleeveless</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Tank</s:tag>
+    <s:tag>Tank Top</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:tag>Womens Tops</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6151816446114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6134857728162</id>
+    <published>2021-02-11T08:47:27-12:00</published>
+    <updated>2021-02-11T08:47:27-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-ladies-long-dress-12pcs-pack-19-90-each"/>
+    <title>Women&apos;s Sleeveless Embroidered Summer Dress - 12pcs/pack (19.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-051.jpg?v=1620943930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            238.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-051</span></p>
+<p><strong>COLOR(S):</strong><span> Green, Mustard, White</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="110" style="width: 390px;">
+<tbody>
+<tr>
+<td rowspan="2" style="width: 223px;">Colors</td>
+<td colspan="1" style="width: 157px;">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Green</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Mustard</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">White</td>
+<td style="width: 157px;">4</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$19.90/pc, $238.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ladies Dress</s:tag>
+    <s:tag>Sleeveless</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6134857728162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">238.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6134819750050</id>
+    <published>2021-02-11T08:12:45-12:00</published>
+    <updated>2021-02-11T08:12:45-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-free-size-5"/>
+    <title>Women&apos;s Sleeveless Long Summer Dress - 12pcs/pack (19.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-050_02bb9480-fcac-493e-a61d-8cb1c5562c01.jpg?v=1620943998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            238.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-050</span></p>
+<p><strong>COLOR(S):</strong><span> Lime Green, Orange, White</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="110" style="width: 390px;">
+<tbody>
+<tr>
+<td rowspan="2" style="width: 223px;">Colors</td>
+<td colspan="1" style="width: 157px;">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Lime Green</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Orange</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">White</td>
+<td style="width: 157px;">4</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$19.90/pc, $238.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Ladies Dress</s:tag>
+    <s:tag>Sleeveless</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6134819750050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">238.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6127430140066</id>
+    <published>2021-02-08T09:33:51-12:00</published>
+    <updated>2021-02-08T09:33:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-free-size-1"/>
+    <title>Women&apos;s Sleeveless Summer Printed Dress - 12pcs/pack ($13.90/each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-043_a6b9a018-6d8c-480c-ae02-10b00e620263.jpg?v=1622155731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            166.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-043</span></p>
+<p><strong>COLOR(S):</strong><span> Print 1, Print 2, Print 3</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="110" style="width: 390px;">
+<tbody>
+<tr>
+<td rowspan="2" style="width: 223px;">Colors</td>
+<td colspan="1" style="width: 157px;">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Print 1</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Print 2</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Print 3</td>
+<td style="width: 157px;">4</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$13.90/pc, $166.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Printed Dress</s:tag>
+    <s:tag>Short Dress</s:tag>
+    <s:tag>Sleeveless</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6127430140066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">166.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1846276522050</id>
+    <published>2020-01-20T05:32:47-12:00</published>
+    <updated>2020-01-20T05:32:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-dress-with-embroidery-12pcs-pack-13-50-each"/>
+    <title>Women&apos;s Sleeveless Summer Dress With Embroidery - 12pcs/pack ($13.50 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/2800-2_-_NAVY.jpg?v=1556139535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            162.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> <span class="s1">2800-2 </span></p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Black, Khaki, Navy, Lt. Grey</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>Free Size </p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td>Sizes</td>
+</tr>
+<tr>
+<td>Free Size</td>
+</tr>
+<tr>
+<td>Black </td>
+<td>3</td>
+</tr>
+<tr>
+<td>Khaki</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Lt. Grey</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong>$13.50/pc, $162.00/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1846276522050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">162.00</s:price>
+      <s:sku>2800-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1978305118274</id>
+    <published>2019-07-31T08:19:13-12:00</published>
+    <updated>2019-07-31T08:19:13-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-front-top-pattern-l-s-stretch-dress-12pcs-pack-18-90-each"/>
+    <title>Women&apos;s Knit &quot;Front Top Pattern&quot; L/S Stretch Dress - 12pcs/pack ($18.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-037._abd1bc8a-b4b5-4c47-bb38-abcb20b16f3d.jpg?v=1620946231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            226.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-037</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Black, Grey, Cream</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Beige</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <strong>PRICE:<span> </span></strong>$18.90/each, $226.80/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1978305118274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1978299711554</id>
+    <published>2019-07-31T08:16:42-12:00</published>
+    <updated>2019-07-31T08:16:42-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-3-lines-button-front-trim-l-s-stretch-dress-12pcs-pack-18-90-each"/>
+    <title>Women&apos;s Knit &quot;3 Lines Button Front Trim&quot; L/S Stretch Dress - 12pcs/pack ($18.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-036.jpg?v=1620946471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            226.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-036</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Dark Beige, Light Grey, Navy</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Dark Beige</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Light Grey</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <strong>PRICE:<span> </span></strong>$18.90/each, $226.8/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1978299711554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1978294730818</id>
+    <published>2019-07-31T08:14:56-12:00</published>
+    <updated>2019-07-31T08:14:56-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-zig-zag-button-front-trim-l-s-stretch-dress-12pcs-pack-18-90-each"/>
+    <title>Women&apos;s Knit &quot;Zig Zag Button Front Trim&quot; L/S Stretch Dress - 12pcs/pack ($18.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-035_fc6b1c89-a4e4-42a1-94dd-a46ab883def2.jpg?v=1620946555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            226.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-035 </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Pink, Black, Light Cream</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Pink</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Light Cream</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <br><strong>PRICE:<span> </span></strong>$18.90/each, $226.8/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1978294730818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1978289356866</id>
+    <published>2019-07-31T08:12:26-12:00</published>
+    <updated>2019-07-31T08:12:26-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-stripe-front-stretch-dress-12pcs-pack-18-90-each"/>
+    <title>Women&apos;s Knit &quot;Stripe Front&quot; Stretch Dress - 12pcs/pack ($18.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-034_40ac4f0f-8c32-4482-ac1c-6273e21d2b53.jpg?v=1628270087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            226.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-034 </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Beige, Light Grey, Navy</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Beige</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Light Grey</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <strong>PRICE:<span> </span></strong>$18.90/each, $226.8/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1978289356866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">226.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1973641969730</id>
+    <published>2019-07-29T06:32:37-12:00</published>
+    <updated>2019-07-29T06:32:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-checks-slit-tie-sleeves-dress-12pcs-pack-15-50-each"/>
+    <title>Women&apos;s Checks Slit-Tie Sleeves Dress - 12pcs/pack ($15.50 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/W19-025.jpg?v=1622753421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            186.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> W19-025</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Beige Checks, Black Checks</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Beige Checks</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Black Checks</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <br><strong>PRICE:<span> </span></strong>12 pieces/pack, $186/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1973641969730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">186.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1973632860226</id>
+    <published>2019-07-29T06:28:37-12:00</published>
+    <updated>2019-07-29T06:28:37-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-solid-col-with-animal-print-dress-with-scarf-12pcs-pack-16-each"/>
+    <title>Women&apos;s Solid Col With Animal Print Dress With Scarf - 12pcs/pack ($16.00 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/M19-005.jpg?v=1620946981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> M19-005</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong><span>Black, Brown</span></p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Brown</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> <strong>PRICE:<span> </span></strong>$16.00/pc, $192.00/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1973632860226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">192.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1967159017538</id>
+    <published>2019-07-24T09:46:51-12:00</published>
+    <updated>2019-07-24T09:46:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-lace-top-dress-with-ribbon-belt-12pcs-pack-20-90-each"/>
+    <title>Women&apos;s Lace Top Dress With Ribbon Belt - 12pcs/pack ($20.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-040_ff916bda-cf8c-4dee-90cd-c53d891bd8cf.jpg?v=1620947161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            250.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-040</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Navy, Wine, Taupe</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL, XXL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Wine</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Taupe</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong>$20.90/pc, $250.80/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>Lace Dress</s:tag>
+    <s:tag>Ladies Dress</s:tag>
+    <s:tag>Womens Dress</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1967159017538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1947739979842</id>
+    <published>2019-07-11T09:32:06-12:00</published>
+    <updated>2019-07-11T09:32:06-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-l-s-dress-12pcs-pack-21-90-each-1"/>
+    <title>Women&apos;s Knit L/S Dress - 12pcs/pack ($21.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-025_fba56999-586f-4672-bf2f-acacdb69fd86.jpg?v=1628269829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            262.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-025</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Beige, Green, Blue</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Beige</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Green</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Blue</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong><span>$21.90/pc, $262.80/pack </span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1947739979842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">262.80</s:price>
+      <s:sku>BO-W-025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1947738832962</id>
+    <published>2019-07-11T09:24:26-12:00</published>
+    <updated>2019-07-11T09:24:26-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-knit-l-s-dress-12pcs-pack-21-90-each"/>
+    <title>Women&apos;s Knit L/S Dress - 12pcs/pack ($21.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-024.jpg?v=1621012118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            262.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-024</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Beige, Grey, Lt. Blue</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Beige</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Lt.Blue</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong><span>$11.90/pc, $262.80/pack </span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1947738832962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">262.80</s:price>
+      <s:sku>BO-W-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1846289006658</id>
+    <published>2019-04-24T08:59:01-12:00</published>
+    <updated>2019-04-24T08:59:01-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-dress-with-embroidery-12pcs-pack-13-50-each-1"/>
+    <title>Women&apos;s Sleeveless Summer Dress With Embroidery - 12pcs/pack ($13.50 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/4111-2_ff5a08b1-ecc4-43cf-b089-b3dd8d45b108.jpg?v=1621012267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            162.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> 4111<span class="s1">-2 </span></p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Black, Olive, Navy, Maroon </p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>Free Size </p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td>Sizes</td>
+</tr>
+<tr>
+<td>Free Size</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Olive</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Maroon</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong>$13.50/pc, $162.00/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1846289006658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">162.00</s:price>
+      <s:sku>4111-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1846145810498</id>
+    <published>2019-04-24T08:20:32-12:00</published>
+    <updated>2019-04-24T08:20:32-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-summer-dress-12pcs-pacl-11-60-each"/>
+    <title>Women&apos;s Summer Dress - 12pcs/pack ($11.60 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/AD05_70c37b44-5dc4-4cc2-acf6-54c5667dee5e.jpg?v=1625760828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            139.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> AD05 </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Green, Orange, Navy, Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>Free Size</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td>Sizes</td>
+</tr>
+<tr>
+<td>Free Size</td>
+</tr>
+<tr>
+<td>Green</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Orange</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE: </strong>$11.60/pc, $139.20/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1846145810498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.20</s:price>
+      <s:sku>AD05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718752346178</id>
+    <published>2019-01-07T18:53:49-12:00</published>
+    <updated>2019-01-07T18:53:49-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/grey-dress-14pcs-pack-10-90-each"/>
+    <title>Women&apos;s Sequin Grey Dress - 14pcs/pack ($10.90 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-C-035_901fd0af-da23-4783-9e4d-708e56c817df.jpg?v=1621012542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            152.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-035</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>6, 8, 10, 12, 14, 16, 18</p>
+<p class="text_uppercase product_description_title"><strong>PACKED: </strong>14 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td>Sizes</td>
+<td>6</td>
+<td>8</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Ratio</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$10.90/pc, $152.6/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718752346178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">152.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1696704593986</id>
+    <published>2018-11-26T18:33:58-12:00</published>
+    <updated>2018-11-26T18:33:58-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-tiered-dress-regular-plus-sizes-40pcs-pack-11-85-each"/>
+    <title>Women&apos;s Tiered Dress (Regular &amp; Plus Sizes) - 20pcs/pack ($11.85 each)</title>
+    <s:type>Womens Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-B-022_d33723e1-7573-42ba-a949-8b867c116a3d.jpg?v=1623178092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Dress<br>
+        <strong>Price: </strong>
+            237.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-B-022</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Teal, Coffee</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>6, 8, 10, 12, 14, 16, 14W, 16W, 18W, 20W, 22W, 24W</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 20 pcs/pack (Available in Regular or Plus Sizing). Custom Packing also available (Contact us).</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="6">Sizes</td>
+</tr>
+<tr>
+<td>6</td>
+<td>8</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Teal</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Coffee</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p> </p>
+<table>
+<tbody>
+<tr style="height: 22px;">
+<td style="height: 44px;" rowspan="2">Colors</td>
+<td style="height: 22px;" colspan="6">Sizes</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px;">14W</td>
+<td style="height: 22px;">16W</td>
+<td style="height: 22px;">18W</td>
+<td style="height: 22px;">20W</td>
+<td style="height: 22px;">22W</td>
+<td style="height: 22px;">24W</td>
+</tr>
+<tr style="height: 22px;">
+<td style="height: 22px;">Teal Plus</td>
+<td style="height: 22px;">1</td>
+<td style="height: 22px;">3</td>
+<td style="height: 22px;">3</td>
+<td style="height: 22px;">1</td>
+<td style="height: 22px;">1</td>
+<td style="height: 22px;">1</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">Coffee Plus</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">3</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
+<td style="height: 18px;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$11.85/pc, $237.00/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696704593986</id>
+      <title>Regular</title>
+      <s:price currency="CAD">237.00</s:price>
+      <s:sku>BO-B-022R</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696704593986</id>
+      <title>Plus</title>
+      <s:price currency="CAD">237.00</s:price>
+      <s:sku>BO-B-022P</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+</feed>

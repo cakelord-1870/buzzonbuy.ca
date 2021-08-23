@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/men-outerwear.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2019-03-12T00:35:29-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1775732195394</id>
+    <published>2019-03-12T00:35:29-12:00</published>
+    <updated>2019-03-12T00:35:29-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-blazer-12pcs-pack-14-75-each"/>
+    <title>Men&apos;s Blazer With Hood - 12pcs/pack ($14.75 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-D-069_-_CL1021048_BLACK_1_1024x1024_2x_5f2c42c9-303f-4e40-8c28-73f820b44692.jpg?v=1564010345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            177.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-069</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>1<strong><span> </span></strong>Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M:L:XL:2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+</div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>12pieces/pack, $168/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feature</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1775732195394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">177.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1767391297602</id>
+    <published>2019-03-06T00:48:31-12:00</published>
+    <updated>2019-03-06T00:48:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/men-blazer-texture-19pcs-pack-14-75each"/>
+    <title>Men&apos;s Texture Blazer With Hood - 19pcs/pack ($14.75 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-D-070_-_CL1021049_GREY_2_360x_927c4a64-7278-4ad7-a6f5-94db8dcce8ee.jpg?v=1555441518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            280.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-070</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Navy, Grey</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M,L,XL,XXL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 19 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>19pieces/pack, $280.25/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feature</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1767391297602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">280.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1767389659202</id>
+    <published>2019-03-06T00:45:49-12:00</published>
+    <updated>2019-03-06T00:45:49-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-modern-jacket-22pcs-pack-21-50each"/>
+    <title>Men&apos;s Modern Jacket - 22pcs/pack ($21.50 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-D-068_-_CL600066_BLACK_1_360x_fb49b30a-adab-4f18-ae81-7b35ac19a64e.jpg?v=1555442918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            473.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-068</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Blue, Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M,L,XL,XXL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 22 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Blue</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> 2</span></strong>2pieces/pack, $473/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feature</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1767389659202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">473.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718749855810</id>
+    <published>2019-01-07T18:46:53-12:00</published>
+    <updated>2019-01-07T18:46:53-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-vest-with-hood-14pcs-pack-13-85-each"/>
+    <title>Men&apos;s Vest With Hood - 14pcs/pack ($13.85 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/Buzz-PaddedVest-01.jpg?v=1576704490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            193.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-034</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L, XL, 2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 14 pcs/pack</p>
+</div>
+</div>
+<div class="product_description"></div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td> Sizes</td>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>2XL</td>
+</tr>
+<tr>
+<td>Ratio</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$13.85/pc, $193.9/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718749855810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">193.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718746808386</id>
+    <published>2019-01-07T18:18:35-12:00</published>
+    <updated>2019-01-07T18:18:35-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-jacket-with-hood-20pcs-pack-16-35-each"/>
+    <title>Men&apos;s Jacket With Hood - 20pcs/pack ($16.35 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/IMG_6033_1024x1024_2x_18cd2b93-d8c5-42ee-9a77-bfd3a44ce327.jpg?v=1576704422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            327.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-032</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Black, Grey, Khaki</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL, 2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED: </strong>20 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td>Color</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Khaki</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$16.35/pc, $327/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718746808386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">327.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718742057026</id>
+    <published>2019-01-07T17:54:05-12:00</published>
+    <updated>2019-01-07T17:54:05-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-jacket-12pcs-pack-16-60-each"/>
+    <title>Jacket With Hood - 12pcs/pack ($16.60 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/Buzz-PaddedJacket-01.jpg?v=1576704619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            199.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-029</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L, XL, 2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td colspan="6">Sizes</td>
+</tr>
+<tr>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>2XL</td>
+<td>3XL</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$16.60/pc, $199.2/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718742057026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1714216140866</id>
+    <published>2019-01-07T17:04:04-12:00</published>
+    <updated>2019-01-07T17:04:04-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-jacket-25pcs-pack-16-80-each"/>
+    <title>Men&apos;s Puffer Jacket - 18pcs/pack ($16.80 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/IMG_6006_1024x1024_2x_8a72128e-b9b6-498c-9c2c-26f5354f1c5e.jpg?v=1576704120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            302.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-026</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Black, Wine</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL, 2XL, 3XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 18 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table style="width: 91.2656%;">
+<tbody>
+<tr>
+<td style="width: 23%;">Color</td>
+<td style="width: 11%;"> M</td>
+<td style="width: 12%;">L</td>
+<td style="width: 10%;">XL</td>
+<td style="width: 17%;">XXL</td>
+<td style="width: 13.5921%;">XXXL</td>
+</tr>
+<tr>
+<td style="width: 23%;">Wine</td>
+<td style="width: 11%;">1</td>
+<td style="width: 12%;">2</td>
+<td style="width: 10%;">1</td>
+<td style="width: 17%;">1</td>
+<td style="width: 13.5921%;">1</td>
+</tr>
+<tr>
+<td style="width: 23%;">Black</td>
+<td style="width: 11%;">0</td>
+<td style="width: 12%;">5</td>
+<td style="width: 10%;">2</td>
+<td style="width: 17%;">5</td>
+<td style="width: 13.5921%;">0</td>
+</tr>
+</tbody>
+</table>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$16.80/pc, $302.40/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feature</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1714216140866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">302.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1696709607490</id>
+    <published>2018-11-26T19:01:54-12:00</published>
+    <updated>2018-11-26T19:01:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-camo-windbreaker-with-hood-20pcs-pack-9-each"/>
+    <title>Camo Windbreaker With Hood - 10pcs/pack ($9.00 each)</title>
+    <s:type>Mens Outerwear</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-B-024_-_MAIN_1024x1024_2x_19acea13-b747-4e6e-a4b0-e181ea0f6bec.jpg?v=1555441880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Outerwear<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-B-024</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>XS, S, M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 10 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Red</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$9.00/pc, $90.00/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men Outerwear</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696709607490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BO-B-024</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

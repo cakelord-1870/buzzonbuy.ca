@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/women-bottoms.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2021-02-19T10:35:28-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6154401808546</id>
+    <published>2021-02-19T10:35:28-12:00</published>
+    <updated>2021-02-19T10:35:28-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-4-sizes"/>
+    <title>Women&apos;s Cotton Rich Tights With Lace Applique Bottom - 6pcs/pack ($11.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-064._b9f9ef9b-8ec2-41c7-a6f1-0f0447f8d827.jpg?v=1622153312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            71.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> BO-W-064</span></p>
+<p><strong>COLOR(S):</strong><span> </span>Black, Navy, White</p>
+<p><strong>SIZES:</strong><span> </span>M, L, XL, 2XL</p>
+<p><strong>PACKED: </strong>6pcs/pack (1 Col) </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table height="123" width="476">
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>2XL</td>
+</tr>
+<tr>
+<td>Any Color</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$11.90/pc, $71.40/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Leggings</s:tag>
+    <s:tag>Ladies Tights</s:tag>
+    <s:tag>Leggings</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Womens Leggings</s:tag>
+    <s:tag>Womens Tights</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6154401808546</id>
+      <title>Black</title>
+      <s:price currency="CAD">71.40</s:price>
+      <s:sku>BO-W-064-B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6154401808546</id>
+      <title>Navy</title>
+      <s:price currency="CAD">71.40</s:price>
+      <s:sku>BO-W-064-N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6154401808546</id>
+      <title>White</title>
+      <s:price currency="CAD">71.40</s:price>
+      <s:sku>BO-W-064-W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6133181087906</id>
+    <published>2021-02-10T10:01:31-12:00</published>
+    <updated>2021-02-10T10:01:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-free-size-3"/>
+    <title>Women&apos;s Tights - 12pcs/pack ($7.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/18009._cd516e80-0efe-4dc2-bb07-eb402f9bd8e6.jpg?v=1622153434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            94.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 18009</span></p>
+<p><strong>COLOR(S):</strong><span> 5 Cols (Black with 5 different color prints)</span></p>
+<p><strong>SIZES:</strong><span> Free Size</span></p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table style="width: 390px;" height="110">
+<tbody>
+<tr>
+<td style="width: 223px;" rowspan="2">Colors</td>
+<td style="width: 157px;" colspan="1">Sizes</td>
+</tr>
+<tr>
+<td style="width: 157px;">Free Size</td>
+</tr>
+<tr>
+<td style="width: 223px;">Col 1 (Grey)</td>
+<td style="width: 157px;">4</td>
+</tr>
+<tr>
+<td style="width: 223px;">Col 2</td>
+<td style="width: 157px;">2</td>
+</tr>
+<tr>
+<td style="width: 223px;">Col 3</td>
+<td style="width: 157px;">2</td>
+</tr>
+<tr>
+<td style="width: 223px;">Col 4</td>
+<td style="width: 157px;">2</td>
+</tr>
+<tr>
+<td style="width: 223px;">Col 5</td>
+<td style="width: 157px;">2</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$7.90/pc, $94.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Leggings</s:tag>
+    <s:tag>Ladies Tights</s:tag>
+    <s:tag>Leggings</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Womens Leggings</s:tag>
+    <s:tag>Womens Tights</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6133181087906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6133171978402</id>
+    <published>2021-02-10T09:49:00-12:00</published>
+    <updated>2021-02-10T09:49:00-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-womens-tights-12pcs-pack-8-90-each"/>
+    <title>Women&apos;s Tights - 12pcs/pack ($9.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/2896_aa06d499-cbcb-4931-aa06-149fee66ec55.jpg?v=1623185247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            118.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 2896</span></p>
+<p><strong>COLOR(S):</strong><span> </span>Black, Grey</p>
+<p><strong>SIZES:</strong><span> 2 Sizes - S</span>/M, L/XL</p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table width="476" height="123">
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>S/M</td>
+<td>L/XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>3</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$9.90/pc, $118.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Leggings</s:tag>
+    <s:tag>Ladies Tights</s:tag>
+    <s:tag>Leggings</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Women&apos;s Tights</s:tag>
+    <s:tag>Womens Leggings</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6133171978402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">118.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/6131361218722</id>
+    <published>2021-02-09T09:21:41-12:00</published>
+    <updated>2021-02-09T09:21:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/copy-of-template-2-sizes"/>
+    <title>Women&apos;s Tights - 12pcs/pack ($8.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/G45.jpg?v=1620938669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            106.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> G45</span></p>
+<p><strong>COLOR(S):</strong><span> </span>Black, Grey, Maroon, Green</p>
+<p><strong>SIZES:</strong><span> 2 Sizes - </span>M/L, XL/2XL</p>
+<p><strong>PACKED: </strong>12pcs/pack </p>
+<p><strong>PACKING RATIO:</strong> </p>
+<table width="476" height="123">
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="3">Sizes</td>
+</tr>
+<tr>
+<td>M/L</td>
+<td>XL/2XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Maroon</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Green</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>PRICE: </strong>$8.90/pc, $106.80/pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Leggings</s:tag>
+    <s:tag>Ladies Tights</s:tag>
+    <s:tag>Leggings</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Women&apos;s Tights</s:tag>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/6131361218722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1532065448002</id>
+    <published>2020-01-20T05:35:27-12:00</published>
+    <updated>2020-01-20T05:35:27-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/bo-a-008"/>
+    <title>Women&apos;s Stretch Denim &quot;Jegging Style&quot; Jeans - 18pcs/pack ($7.20/pc)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-A-008-Black-Pic1.jpg?v=1623185518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            129.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="p1" style="text-align: left;">
+<b>STYLE:</b> BO-A-008<br><br>
+</div>
+<div class="p1" style="text-align: left;">
+<b>COLOR(S): </b>Blue, Black<br><br>
+</div>
+<div class="p1" style="text-align: left;">
+<b>PACKED:</b> 18pcs/pack <em><br><br></em>
+</div>
+<div class="p1" style="text-align: left;">
+<b>SIZES:</b> S, M, L, XL, 2XL, 3XL<br><br>
+</div>
+<div class="p1" style="text-align: left;"></div>
+<div class="p1" style="text-align: left;"></div>
+<div class="p1" style="text-align: left;"><b></b></div>
+<div class="p1" style="text-align: left;"><b></b></div>
+<div class="p1" style="text-align: left;"><b></b></div>
+<div class="p1" style="text-align: left;"><b>PACKING RATIO:</b></div>
+<table cellspacing="0" cellpadding="0" class="t1" style="width: 555px;">
+<tbody>
+<tr style="height: 20px;">
+<td rowspan="2" valign="middle" class="td1" style="width: 87px; text-align: center; height: 1px;">
+<p class="p2">Colours</p>
+</td>
+<td colspan="6" valign="middle" class="td2" style="width: 458px; text-align: center; height: 36px;">
+<p class="p2">Sizes</p>
+</td>
+</tr>
+<tr style="height: 4px;">
+<td valign="middle" class="td3" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">S</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">M</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">L</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">XL</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">2XL</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 4px;">
+<p class="p2">3XL</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td valign="middle" class="td1" style="width: 87px; text-align: center; height: 36px;">
+<p class="p2">Blue</p>
+</td>
+<td valign="middle" class="td3" style="width: 168px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+</tr>
+<tr style="height: 36px;">
+<td valign="middle" class="td1" style="width: 87px; text-align: center; height: 36px;">
+<p class="p2">Black</p>
+</td>
+<td valign="middle" class="td3" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">2</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+<td valign="middle" class="td4" style="width: 50px; text-align: center; height: 36px;">
+<p class="p2">1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: left;">
+<b><br>PRICE: </b>$7.20/pc, $129.60/pack<br><br>
+</div>
+<div class="p1" style="text-align: left;">
+<b>BUNDLE DEAL: </b>4 packs (Please <a href="https://buzz-on-wholesale-clothing.myshopify.com/pages/contact-us"><span class="s1">contact us</span></a> for our best price)</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1532065448002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.60</s:price>
+      <s:sku>BO-A-008</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1967161737282</id>
+    <published>2019-07-24T09:49:31-12:00</published>
+    <updated>2019-07-24T09:49:31-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-denim-skirt-with-belt-12pcs-pack-17-90-each"/>
+    <title>Women&apos;s Long Denim Skirt With Belt - 12pcs/pack ($17.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-041.jpg?v=1620939218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            214.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-041</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S): </strong>Dark Indigo, Medium Indigo</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>M, L, XL, XXL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>XXL</td>
+</tr>
+<tr>
+<td>Dark Indigo</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Medium Indigo</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong>$17.90/pc, $214.80/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1967161737282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1967156002882</id>
+    <published>2019-07-24T09:43:09-12:00</published>
+    <updated>2019-07-24T09:43:09-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-fancy-6-button-stretch-pants-12pcs-pack-12-50-each"/>
+    <title>Women&apos;s Fancy 6 Button Stretch Pants - 16pcs/pack ($12.50 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-039.jpg?v=1623100898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-039</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Olive, Navy, Grey, Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 16 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Olive</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong><br>PRICE:<span> </span></strong>$12.50/pc, $200/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1967156002882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1947745845314</id>
+    <published>2019-07-11T09:39:30-12:00</published>
+    <updated>2019-07-11T09:39:30-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-capri-pants-with-belt-16pcs-pack-9-50-each"/>
+    <title>Women&apos;s Capri Pants With Belt - 16pcs/pack ($9.50 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-W-038.jpg?v=1620939617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            114.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-W-038</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Beige, Olive, Navy, Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> S, M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 16 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<table style="width: 553px;">
+<tbody>
+<tr>
+<td rowspan="2" style="width: 248px;">Colors</td>
+<td colspan="4" style="width: 279px;">Sizes</td>
+</tr>
+<tr>
+<td style="width: 69px;">S</td>
+<td style="width: 66px;">M</td>
+<td style="width: 76px;">L</td>
+<td style="width: 68px;">XL</td>
+</tr>
+<tr>
+<td style="width: 248px;">Beige</td>
+<td style="width: 69px;">1</td>
+<td style="width: 66px;">1</td>
+<td style="width: 76px;">1</td>
+<td style="width: 68px;">1</td>
+</tr>
+<tr>
+<td style="width: 248px;">Olive</td>
+<td style="width: 69px;">1</td>
+<td style="width: 66px;">1</td>
+<td style="width: 76px;">1</td>
+<td style="width: 68px;">1</td>
+</tr>
+<tr>
+<td style="width: 248px;">Navy</td>
+<td style="width: 69px;">1</td>
+<td style="width: 66px;">1</td>
+<td style="width: 76px;">1</td>
+<td style="width: 68px;">1</td>
+</tr>
+<tr>
+<td style="width: 248px;">Black</td>
+<td style="width: 69px;">1</td>
+<td style="width: 66px;">1</td>
+<td style="width: 76px;">1</td>
+<td style="width: 68px;">1</td>
+</tr>
+</tbody>
+</table>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong><span>$9.50/pc, $114.00/pack </span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1947745845314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.00</s:price>
+      <s:sku>BO-W-038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718755393602</id>
+    <published>2019-01-07T19:19:10-12:00</published>
+    <updated>2019-01-07T19:19:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-pants-20pcs-pack-6-95-each"/>
+    <title>Women&apos;s Pants - 20pcs/pack ($6.95 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-C-038.jpg?v=1620939815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-038</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>0, 2, 4, 6, 8, 10, 12, 14, 16, 18</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 20 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td> Sizes</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+<td>6</td>
+<td>8</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Ratio</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$6.95pc, $139.00/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718755393602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718754246722</id>
+    <published>2019-01-07T19:12:19-12:00</published>
+    <updated>2019-01-07T19:12:19-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/denim-skirt-12pcs-pack-6-90-each"/>
+    <title>Women&apos;s / Girl&apos;s Denim Skirt - 12pcs/pack ($6.90 each)</title>
+    <s:type>Womens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/IMG_6015_1024x1024_2x_ce4bd530-88cc-460e-b91b-1c529bf27123.jpg?v=1555430019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Bottom<br>
+        <strong>Price: </strong>
+            82.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-037</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L, XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td> Sizes</td>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+</tr>
+<tr>
+<td>Ratio</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$6.90pc, $82.8/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718754246722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

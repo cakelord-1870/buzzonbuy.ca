@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/girls.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2019-01-07T19:06:38-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718753296450</id>
+    <published>2019-01-07T19:06:38-12:00</published>
+    <updated>2019-01-07T19:06:38-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/girls-denim-jacket-10pcs-pack-6-90-each"/>
+    <title>Girl&apos;s Denim Jacket - 10pcs/pack ($6.90 each)</title>
+    <s:type>Girls</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/IMG_6042_360x_ab163857-2af4-461e-aad5-dc9869150096.jpg?v=1555430533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Girls<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-036</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>2/3, 3/4, 4/5, 5/6, 6/7</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 10 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table width="100%">
+<tbody>
+<tr>
+<td> Sizes</td>
+<td>2/3</td>
+<td>3/4</td>
+<td>4/5</td>
+<td>5/6</td>
+<td>6/7</td>
+</tr>
+<tr>
+<td>Ratio</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$6.90/pc, $69.00pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718753296450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1718733209666</id>
+    <published>2019-01-07T17:19:00-12:00</published>
+    <updated>2019-01-07T17:19:00-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/kids-jacket-with-hood-14pcs-pack-11-90-each"/>
+    <title>Girl&apos;s Jacket With Hood - 14pcs/pack ($11.90 each)</title>
+    <s:type>Girls</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/Buzz-JacketwithHood-Girl.jpg?v=1576703512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Girls<br>
+        <strong>Price: </strong>
+            166.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-C-028</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="product_description"></div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>12/18,<strong> </strong>18/24, 2/3, 3/4, 4/5, 5/6, 6/7</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 14 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$11.90/pc, $166.60/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1718733209666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">166.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1696667959362</id>
+    <published>2018-11-26T17:21:53-12:00</published>
+    <updated>2018-11-26T17:21:53-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/girls-jacket-18pcs-pack-11-25-each"/>
+    <title>Girl&apos;s Puffer Jacket With Hood - 21pcs/pack ($11.25 each)</title>
+    <s:type>Girls</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-B-014_-_Col_1_-_MAIN_1024x1024_2x_15c1e177-c282-4927-8d6a-c7c47b36228a.jpg?v=1555430716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Girls<br>
+        <strong>Price: </strong>
+            236.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-B-014</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Grey, Plum</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>2A, 3A, 4A, 5A, 6A, 8A,10A, 12A, 14A</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 21 pcs/pack  </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="9">Sizes</td>
+</tr>
+<tr>
+<td>2A</td>
+<td>3A</td>
+<td>4A</td>
+<td>5A</td>
+<td>6A</td>
+<td>8A</td>
+<td>10A</td>
+<td>12A</td>
+<td>14A</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Plum</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$11.25/pc, $236.25/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696667959362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">236.25</s:price>
+      <s:sku>BO-B-014</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1696662618178</id>
+    <published>2018-11-26T17:09:40-12:00</published>
+    <updated>2018-11-26T17:09:40-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/girls-fashion-jacket-with-hood-8pcs-pack-14-35-each"/>
+    <title>Girl&apos;s Fashion Jacket With Hood - 8pcs/pack ($10.65 each)</title>
+    <s:type>Girls</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-B-013_-_MAIN_1024x1024_2x_a0310cef-962a-41cb-b90c-f641eac0838c.jpg?v=1555430579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Girls<br>
+        <strong>Price: </strong>
+            85.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-B-013</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> 1 Color</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>5/6, 7/8, 9/10, 11/12, 13/14</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 8pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="5">Sizes</td>
+</tr>
+<tr>
+<td>5/6</td>
+<td>7/8</td>
+<td>9/10</td>
+<td>11/12</td>
+<td>13/14</td>
+</tr>
+<tr>
+<td>Red | Purple</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$10.65/pc, $85.20/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696662618178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.20</s:price>
+      <s:sku>BO-B-013</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>

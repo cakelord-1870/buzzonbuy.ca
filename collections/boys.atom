@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/boys.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2019-03-06T00:40:02-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1767387299906</id>
+    <published>2019-03-06T00:40:02-12:00</published>
+    <updated>2019-03-06T00:40:02-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/kids-black-hood-12pcs-pack-5-90each"/>
+    <title>Kid&apos;s Black Hoodie - 12pcs/pack ($5.90 each)</title>
+    <s:type>Boys</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/Buzz-AmericanVintageHoodie-Boys-01.jpg?v=1576703745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Boys<br>
+        <strong>Price: </strong>
+            70.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-065</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES:</strong> M,L,XL,2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 12 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="4">Sizes</td>
+</tr>
+<tr>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>2XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>12pieces/pack, $70.80/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1767387299906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1767347322946</id>
+    <published>2019-03-05T23:44:33-12:00</published>
+    <updated>2019-03-05T23:44:33-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/boys-pants-14pcs-pack-5-90each"/>
+    <title>Boy&apos;s Long Sport Pants - 22pcs/pack ($5.90 each)</title>
+    <s:type>Boys</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-D-050_-_MT18-GZ-61091_BLACK_1_360x_42a67559-5109-49af-9908-ccbfb438f620.jpg?v=1555429736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Boys<br>
+        <strong>Price: </strong>
+            129.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-050</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):<span> </span></strong>Grey, Navy, Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L,XL,2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 22 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="5">Sizes</td>
+</tr>
+<tr>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+<td>2XL</td>
+</tr>
+<tr>
+<td>Grey</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Navy</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$5.90/pc, $129.80/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1767347322946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1696686768194</id>
+    <published>2018-11-26T18:00:36-12:00</published>
+    <updated>2018-11-26T18:00:36-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/boys-jacket-with-hood-8pcs-pack-12-35-each"/>
+    <title>Kid&apos;s Puffer Jacket With Hood - 8pcs/pack ($12.35 each)</title>
+    <s:type>Boys</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-B-018_-_MAIN_1024x1024_2x_b8d92996-f251-4807-ba64-3f55ac25bbe5.jpg?v=1555429597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Boys<br>
+        <strong>Price: </strong>
+            98.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-B-018</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Wine </p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>110, 120, 130, 140, 150, 160</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 8 pcs/pack</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="6">Sizes</td>
+</tr>
+<tr>
+<td>110</td>
+<td>120</td>
+<td>130</td>
+<td>140</td>
+<td>150</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Wine</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$12.35/pc, $98.80/pack </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1696686768194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.80</s:price>
+      <s:sku>BO-B-018</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/women-evening-prom-dresses.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2019-08-06T12:57:52-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988438917186</id>
+    <published>2019-08-06T12:57:52-12:00</published>
+    <updated>2019-08-06T12:57:52-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-9"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/2116A_2a540b12-b205-4fd7-a994-0e4e817f34a5.jpg?v=1621020471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 2116A</span></p>
+<p><strong>COLOR(S): </strong>﻿Black, Green</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988438917186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988437704770</id>
+    <published>2019-08-06T12:56:41-12:00</published>
+    <updated>2019-08-06T12:56:41-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-8"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3102A..jpg?v=1621020613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 3111A</span></p>
+<p><strong>COLOR(S): </strong>﻿Navy Blue</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988437704770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988435640386</id>
+    <published>2019-08-06T12:54:34-12:00</published>
+    <updated>2019-08-06T12:54:34-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-7"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/1891A.jpg?v=1621020774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 1891A</span></p>
+<p><strong>COLOR(S): </strong>﻿Maroon, Black, Red</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988435640386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988430200898</id>
+    <published>2019-08-06T12:46:25-12:00</published>
+    <updated>2019-08-06T12:46:25-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-6"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3111A_8da2a938-fbd1-45e8-9b01-edd7cc844d23.jpg?v=1621020924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 3102A</span></p>
+<p><strong>COLOR(S): </strong>﻿Black, Navy Blue</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>PRICE: </strong>$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988430200898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988429348930</id>
+    <published>2019-08-06T12:44:57-12:00</published>
+    <updated>2019-08-06T12:44:57-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-5"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3110A.jpg?v=1621021002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> </span>3110A</p>
+<p><strong>COLOR(S): </strong>﻿Maroon, Royal Blue, Navy Blue, Black</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988429348930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988427579458</id>
+    <published>2019-08-06T12:42:47-12:00</published>
+    <updated>2019-08-06T12:42:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-4"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3115A.jpg?v=1621021066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> </span>3115A</p>
+<p><strong>COLOR(S): </strong>﻿Royal Blue, Navy Blue, Black</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988427579458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988426104898</id>
+    <published>2019-08-06T12:39:54-12:00</published>
+    <updated>2019-08-06T12:39:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-3"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3100A.jpg?v=1621021161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> </span>3100A</p>
+<p><strong>COLOR(S): </strong>﻿Black, Navy Blue, Pink</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988426104898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988424138818</id>
+    <published>2019-08-06T12:36:14-12:00</published>
+    <updated>2019-08-06T12:36:14-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-2"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/2291A_4aba66b8-11d2-437e-a2c3-b5262fcabbd8.jpg?v=1621021260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 2291A</span></p>
+<p><strong>COLOR(S): </strong>﻿Black, Navy Blue, Maroon, Red</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988424138818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988422533186</id>
+    <published>2019-08-06T12:34:29-12:00</published>
+    <updated>2019-08-06T12:34:29-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-1"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/5073A_85ef3c10-6e90-4726-a2f4-699a56e3cd4f.jpg?v=1621021319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 5073A</span></p>
+<p><strong>COLOR(S): </strong>﻿Grey, Navy Blue, Beige</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988422533186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988420436034</id>
+    <published>2019-08-06T12:29:11-12:00</published>
+    <updated>2019-08-06T12:29:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back-69-00"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/2273A.jpg?v=1621021427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>STYLE:</strong><span> 2273A</span></p>
+<p><strong>COLOR(S): </strong>﻿Green, Royal Blue, Maroon, Navy Blue, Black</p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>PRICE: </strong>$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988420436034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1988362305602</id>
+    <published>2019-08-06T11:16:28-12:00</published>
+    <updated>2019-08-06T11:16:28-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/ladies-long-evening-dress-with-stretch-back"/>
+    <title>Women&apos;s Long Evening Dress With Stretch Back - $69.00</title>
+    <s:type>Womens Evening Dress</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/3108A_d7863c98-5c1c-4a21-96fc-680b7ab14cfe.jpg?v=1621021881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Womens Evening Dress<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>STYLE:</strong> 3108A</p>
+<p><strong>COLOR(S): </strong>Black, Royal Blue, Maroon </p>
+<p><strong>SIZES: </strong>Free Size (Can Fit 3 Different Sizes)</p>
+<p><strong>﻿PRICE: </strong>﻿$69.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1988362305602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

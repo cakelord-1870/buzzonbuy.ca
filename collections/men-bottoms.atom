@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://buzzonbuy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://buzzonbuy.ca/collections/men-bottoms.atom"/>
+  <title>Buzz On inc.</title>
+  <updated>2019-03-05T06:58:11-12:00</updated>
+  <author>
+    <name>Buzz On inc.</name>
+  </author>
+  <entry>
+    <id>https://buzzonbuy.ca/products/1766528811074</id>
+    <published>2019-03-05T06:58:11-12:00</published>
+    <updated>2019-03-05T06:58:11-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://buzzonbuy.ca/products/mens-pants-white-stripe-27pcs-pack-7-20-each"/>
+    <title>Long Sport Pants - 27pcs/pack ($7.20 each)</title>
+    <s:type>Mens Bottom</s:type>
+    <s:vendor>buzz on inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0072/3832/0194/products/BO-D-040_-_GBT8-592_3.JPG?v=1555443089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>buzz on inc.<br>
+        <strong>Type: </strong>Mens Bottom<br>
+        <strong>Price: </strong>
+            194.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>STYLE:</strong> BO-D-040</p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>COLOR(S):</strong> Black</p>
+<p class="text_uppercase product_description_title"><strong>SIZES: </strong>S, M, L, XL, 2XL</p>
+<p class="text_uppercase product_description_title"><strong>PACKED:</strong> 27 pcs/pack </p>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"><strong>PACKING RATIO:</strong></p>
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<table>
+<tbody>
+<tr>
+<td rowspan="2">Colors</td>
+<td colspan="5">Sizes</td>
+</tr>
+<tr>
+<td>XS</td>
+<td>S</td>
+<td>M</td>
+<td>L</td>
+<td>XL</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>3</td>
+<td>6</td>
+<td>9</td>
+<td>6</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left"></div>
+</div>
+</div>
+</div>
+<div class="product_description">
+<div class="col-lg-4 col-md-5 col-sm-5 col-xs-4 mobile_product_description_left">
+<p class="text_uppercase product_description_title"> </p>
+<p class="text_uppercase product_description_title"><strong>PRICE:<span> </span></strong>$7.20/pc, $194.40/pack  </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://buzzonbuy.ca/products/1766528811074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">194.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
